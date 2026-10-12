@@ -32,6 +32,8 @@ The project is in the design stage. The boards and schematics are present; firmw
 
 Open the left and right projects under `Tactile/PCB/` in KiCad. Custom libraries are in `Tactile/Libraries/`, and printable geometry is in `Tactile/Model/`. The purchase list is also available as [BOM.csv](BOM.csv).
 
+Gerbers and drill files are in the [left fabrication folder](Tactile/PCB/Left%20side/fabrication/) and [right fabrication folder](Tactile/PCB/Right%20side/fabrication/), with a ZIP package for each half. These are design exports; fabrication checks are still pending.
+
 ## Purchase BOM
 
 Planned component purchases. Prices are previous supplier estimates for each listed quantity; unquoted prices are marked TBD. Final part selections are still being checked.
