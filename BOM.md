@@ -12,12 +12,6 @@
 
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
-| [Tactile switches](https://en.akkogear.com/product/creamy-purple-u1-switch/) | — | 2 | $19.98 | $39.96 | [Akkogear](https://en.akkogear.com/product/creamy-purple-u1-switch/) |
-| [Touchpad](https://www.mouser.com/en/ProductDetail/Cirque/TM040040-2024-302?qs=wd5RIQLrsJgMzmw571gvDw%3D%3D) | — | 1 | $9.63 | $9.63 | [Mouser](https://www.mouser.com/en/ProductDetail/Cirque/TM040040-2024-302?qs=wd5RIQLrsJgMzmw571gvDw%3D%3D) |
-| [Matrix diodes](https://www.digikey.com/en/products/detail/diodes-incorporated/1N4148W-7-F/815280) | — | 100 | $6.65 | $665.00 | [DigiKey](https://www.digikey.com/en/products/detail/diodes-incorporated/1N4148W-7-F/815280) |
-| [Shift registers](https://www.digikey.com/en/products/detail/nexperia-usa-inc/74HC595D-118/763394) | — | 2 | $0.60 | $1.20 | [DigiKey](https://www.digikey.com/en/products/detail/nexperia-usa-inc/74HC595D-118/763394) |
-| [Capacitors](https://www.digikey.com/en/products/detail/yageo/CC0805KRX7R9BB104/302874) | — | 10 | $0.98 | $9.80 | [DigiKey](https://www.digikey.com/en/products/detail/yageo/CC0805KRX7R9BB104/302874) |
-| [Touchpad connector](https://www.digikey.com/en/products/detail/hirose-electric-co-ltd/FH12-12S-0-5SH-55/1110316) | — | 1 | $2.00 | $2.00 | [DigiKey](https://www.digikey.com/en/products/detail/hirose-electric-co-ltd/FH12-12S-0-5SH-55/1110316) |
 | [Touchpad cable](https://www.digikey.com/en/products/detail/assmann-wsw-components/AFFC-050-12-051-11/6570261) | — | 1 | $0.00 | $0.00 | [DigiKey](https://www.digikey.com/en/products/detail/assmann-wsw-components/AFFC-050-12-051-11/6570261) |
 | [Ribbon cable](https://www.digikey.com/en/products/detail/assmann-wsw-components/AWG28-14-F-300/655738) | — | 2 | $3.58 | $7.16 | [DigiKey](https://www.digikey.com/en/products/detail/assmann-wsw-components/AWG28-14-F-300/655738) |
 | [IDC sockets](https://www.digikey.com/en/products/detail/assmann-wsw-components/AWP-14-8240-T/5244612) | — | 2 | $1.20 | $2.40 | [DigiKey](https://www.digikey.com/en/products/detail/assmann-wsw-components/AWP-14-8240-T/5244612) |
@@ -31,8 +25,8 @@
 | 330 ohm resistor | — | 1 | $0.00 | $0.00 | — |
 | 2.2 kOhm resistor | — | 1 | $0.00 | $0.00 | — |
 | [Battery connector](https://www.jst-mfg.com/product/index.php?series=ACH) | — | 1 | $0.00 | $0.00 | [Jst-mfg](https://www.jst-mfg.com/product/index.php?series=ACH) |
-| **Parts subtotal** | — | — | — | **$755.69** | — |
+| **Parts subtotal** | — | — | — | **$28.10** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$755.69** | — |
+| **Total** | — | — | — | **$28.10** | — |
 
-**$690.69 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+$36.90 left of the tier's funding.
