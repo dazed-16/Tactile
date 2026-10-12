@@ -1,2 +1,15 @@
 AGENTS.md
 COMPONENT_REVIEW.md
+/secrets/
+
+# Local editor state, backups and installers
+**/.directory
+**/.history
+*.kicad_prl
+*.lck
+**/*-unsaved-export-*
+**/_restore_backup_*/
+**/*-backups/
+*.exe
+# Upstream checkout is retained locally; selected assets are vendored separately
+/Tactile/Libraries/OPL_Kicad_Library/

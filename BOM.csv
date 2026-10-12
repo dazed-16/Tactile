@@ -1,0 +1,21 @@
+Item,Part,Quantity,Price USD,Link
+BLE controller,102010448,1,9.90,https://www.seeedstudio.com/Seeed-XIAO-BLE-nRF52840-p-5201.html
+Tactile switches,Creamy Purple U1,2 packs,19.98,https://en.akkogear.com/product/creamy-purple-u1-switch/
+Touchpad,TM040040-2024-302,1,9.63,https://www.mouser.com/en/ProductDetail/Cirque/TM040040-2024-302?qs=wd5RIQLrsJgMzmw571gvDw%3D%3D
+Matrix diodes,1N4148W-7-F,100,6.65,https://www.digikey.com/en/products/detail/diodes-incorporated/1N4148W-7-F/815280
+Shift registers,"74HC595D,118",2,0.60,https://www.digikey.com/en/products/detail/nexperia-usa-inc/74HC595D-118/763394
+Capacitors,CC0805KRX7R9BB104,10,0.98,https://www.digikey.com/en/products/detail/yageo/CC0805KRX7R9BB104/302874
+Touchpad connector,FH12-12S-0.5SH(55),1,2.00,https://www.digikey.com/en/products/detail/hirose-electric-co-ltd/FH12-12S-0-5SH-55/1110316
+Touchpad cable,AFFC-050-12-051-11,1,TBD,https://www.digikey.com/en/products/detail/assmann-wsw-components/AFFC-050-12-051-11/6570261
+Ribbon cable,AWG28-14/F/300,2 feet,3.58,https://www.digikey.com/en/products/detail/assmann-wsw-components/AWG28-14-F-300/655738
+IDC sockets,AWP 14-8240-T,2,1.20,https://www.digikey.com/en/products/detail/assmann-wsw-components/AWP-14-8240-T/5244612
+IDC strain reliefs,AWZ-14-T,2,0.20,https://www.digikey.com/en/products/base-product/assmann-wsw-components/123/AWZ/567962
+IDC headers,AWHW 14G-0202-T,2,1.26,https://www.digikey.com/en/products/detail/assmann-wsw-components/AWHW-14G-0202-T/5224931
+Power switch,EG1218,1,0.72,https://www.digikey.com/en/products/detail/e-switch/EG1218/101726
+Battery,258,1,9.95,https://www.digikey.com/en/products/detail/adafruit-industries-llc/258/5054544
+USB cable,4474,1,4.95,https://www.adafruit.com/product/4474
+Battery protection IC,BQ29700DSET,1,TBD,https://www.ti.com/product/BQ2970
+Dual MOSFET,CSD83325L,1,TBD,https://www.ti.com/product/CSD83325L
+330 ohm resistor,TBD; 0603,1,TBD,TBD
+2.2 kOhm resistor,TBD; 0603,1,TBD,TBD
+Battery connector,BM02B-ACHSS-GAN-ETF,1,TBD,https://www.jst-mfg.com/product/index.php?series=ACH
