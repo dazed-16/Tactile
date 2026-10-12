@@ -35,9 +35,8 @@
 | [DigiKey shipping](https://www.digikey.com.mx/en) | — | 1 | $30.00 | $30.00 | [COM](https://www.digikey.com.mx/en) |
 | [Seeed shipping](https://support.seeedstudio.com/knowledgebase/topics/56172-shipping) | — | 1 | $10.00 | $10.00 | [Seeedstudio](https://support.seeedstudio.com/knowledgebase/topics/56172-shipping) |
 | [Akko shipping](https://en.akkogear.com/faq/how-many-days-will-the-delivery-take-if-i-order-today/) | — | 1 | $15.00 | $15.00 | [Akkogear](https://en.akkogear.com/faq/how-many-days-will-the-delivery-take-if-i-order-today/) |
-| [Mouser shipping](https://www.mouser.mx/es/saleterms/) | — | 1 | $20.00 | $20.00 | [Mouser](https://www.mouser.mx/es/saleterms/) |
-| **Parts subtotal** | — | — | — | **$152.17** | — |
+| **Parts subtotal** | — | — | — | **$132.17** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$152.17** | — |
+| **Total** | — | — | — | **$132.17** | — |
 
-**$87.17 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$67.17 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
