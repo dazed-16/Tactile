@@ -1,27 +1,27 @@
-Item,Part,Quantity,Purchase unit,Unit price USD,Line total USD,Link
-BLE controller,102010448,1,piece,9.90,9.90,https://www.seeedstudio.com/Seeed-XIAO-BLE-nRF52840-p-5201.html
-Tactile switches,Creamy Purple U1,2,pack of 45,9.99,19.98,https://en.akkogear.com/product/creamy-purple-u1-switch/
-Touchpad,TM040040-2024-302,1,piece,9.63,9.63,https://www.mouser.com/en/ProductDetail/Cirque/TM040040-2024-302?qs=wd5RIQLrsJgMzmw571gvDw%3D%3D
-Matrix diodes,1N4148W-7-F,100,piece,0.0665,6.65,https://www.digikey.com/en/products/detail/diodes-incorporated/1N4148W-7-F/815280
-Shift registers,"74HC595D,118",2,piece,0.30,0.60,https://www.digikey.com/en/products/detail/nexperia-usa-inc/74HC595D-118/763394
-Capacitors,CC0805KRX7R9BB104,10,piece,0.098,0.98,https://www.digikey.com/en/products/detail/yageo/CC0805KRX7R9BB104/302874
-Touchpad connector,FH12-12S-0.5SH(55),1,piece,2.00,2.00,https://www.digikey.com/en/products/detail/hirose-electric-co-ltd/FH12-12S-0-5SH-55/1110316
-Touchpad cable,AFFC-050-12-051-11,1,piece,TBD,TBD,https://www.digikey.com/en/products/detail/assmann-wsw-components/AFFC-050-12-051-11/6570261
-Ribbon cable,AWG28-14/F/300,2,foot,1.79,3.58,https://www.digikey.com/en/products/detail/assmann-wsw-components/AWG28-14-F-300/655738
-IDC sockets,AWP 14-8240-T,2,piece,0.60,1.20,https://www.digikey.com/en/products/detail/assmann-wsw-components/AWP-14-8240-T/5244612
-IDC strain reliefs,AWZ-14-T,2,piece,0.10,0.20,https://www.digikey.com/en/products/base-product/assmann-wsw-components/123/AWZ/567962
-IDC headers,AWHW 14G-0202-T,2,piece,0.63,1.26,https://www.digikey.com/en/products/detail/assmann-wsw-components/AWHW-14G-0202-T/5224931
-Power switch,EG1218,1,piece,0.72,0.72,https://www.digikey.com/en/products/detail/e-switch/EG1218/101726
-Battery,258,1,piece,9.95,9.95,https://www.digikey.com/en/products/detail/adafruit-industries-llc/258/5054544
-USB cable,4474,1,piece,4.95,4.95,https://www.adafruit.com/product/4474
-Battery protection IC,BQ29700DSET,1,piece,TBD,TBD,https://www.ti.com/product/BQ2970
-Dual MOSFET,CSD83325L,1,piece,TBD,TBD,https://www.ti.com/product/CSD83325L
-330 ohm resistor,TBD; 0603,1,piece,TBD,TBD,TBD
-2.2 kOhm resistor,TBD; 0603,1,piece,TBD,TBD,TBD
-Battery connector,BM02B-ACHSS-GAN-ETF,1,piece,TBD,TBD,https://www.jst-mfg.com/product/index.php?series=ACH
-DigiKey shipping,N/A,1,order charge,30.00,30.00,https://www.digikey.com.mx/en
-Seeed shipping,N/A,1,order charge,TBD,TBD,https://support.seeedstudio.com/knowledgebase/topics/56172-shipping
-Akko shipping,N/A,1,order charge,TBD,TBD,https://en.akkogear.com/faq/how-many-days-will-the-delivery-take-if-i-order-today/
-Mouser shipping,N/A,1,order charge,TBD,TBD,https://www.mouser.mx/es/saleterms/
-Adafruit shipping,N/A,1,order charge,TBD,TBD,https://www.adafruit.com/shippinginfo
-Tax and import charges,N/A,1,all orders,TBD,TBD,https://wwwmatnp.sat.gob.mx/articulo/43379/articulo-27
+Item,Part,Quantity,Purchase unit,Unit price USD,Line total USD,Link,Price basis
+BLE controller,102010448,1,piece,9.90,9.90,https://www.seeedstudio.com/Seeed-XIAO-BLE-nRF52840-p-5201.html,Earlier supplier estimate
+Tactile switches,Creamy Purple U1,2,pack of 45,9.99,19.98,https://en.akkogear.com/product/creamy-purple-u1-switch/,Earlier supplier estimate
+Touchpad,TM040040-2024-302,1,piece,9.63,9.63,https://www.mouser.com/en/ProductDetail/Cirque/TM040040-2024-302?qs=wd5RIQLrsJgMzmw571gvDw%3D%3D,Earlier supplier estimate
+Matrix diodes,1N4148W-7-F,100,piece,0.0665,6.65,https://www.digikey.com/en/products/detail/diodes-incorporated/1N4148W-7-F/815280,Verified listing
+Shift registers,"74HC595D,118",2,piece,0.30,0.60,https://www.digikey.com/en/products/detail/nexperia-usa-inc/74HC595D-118/763394,Earlier supplier estimate
+Capacitors,CC0805KRX7R9BB104,10,piece,0.098,0.98,https://www.digikey.com/en/products/detail/yageo/CC0805KRX7R9BB104/302874,Earlier supplier estimate
+Touchpad connector,FH12-12S-0.5SH(55),1,piece,2.00,2.00,https://www.digikey.com/en/products/detail/hirose-electric-co-ltd/FH12-12S-0-5SH-55/1110316,Earlier supplier estimate
+Touchpad cable,AFFC-050-12-051-11,1,piece,2.00,2.00,https://www.digikey.com/en/products/detail/assmann-wsw-components/AFFC-050-12-051-11/6570261,Planning allowance
+Ribbon cable,AWG28-14/F/300,2,foot,1.79,3.58,https://www.digikey.com/en/products/detail/assmann-wsw-components/AWG28-14-F-300/655738,Earlier supplier estimate
+IDC sockets,AWP 14-8240-T,2,piece,0.60,1.20,https://www.digikey.com/en/products/detail/assmann-wsw-components/AWP-14-8240-T/5244612,Earlier supplier estimate
+IDC strain reliefs,AWZ-14-T,2,piece,0.10,0.20,https://www.digikey.com/en/products/base-product/assmann-wsw-components/123/AWZ/567962,Earlier supplier estimate
+IDC headers,AWHW 14G-0202-T,2,piece,0.63,1.26,https://www.digikey.com/en/products/detail/assmann-wsw-components/AWHW-14G-0202-T/5224931,Earlier supplier estimate
+Power switch,EG1218,1,piece,0.72,0.72,https://www.digikey.com/en/products/detail/e-switch/EG1218/101726,Earlier supplier estimate
+Battery,258,1,piece,9.95,9.95,https://www.digikey.com/en/products/detail/adafruit-industries-llc/258/5054544,Earlier supplier estimate
+USB cable,4474,1,piece,4.95,4.95,https://www.adafruit.com/product/4474,Earlier supplier estimate
+Battery protection IC,BQ29700DSET,1,piece,1.00,1.00,https://www.ti.com/product/BQ2970,Planning allowance
+Dual MOSFET,CSD83325L,1,piece,1.50,1.50,https://www.ti.com/product/CSD83325L,Planning allowance
+330 ohm resistor,TBD; 0603,1,piece,0.10,0.10,TBD,Planning allowance
+2.2 kOhm resistor,TBD; 0603,1,piece,0.10,0.10,TBD,Planning allowance
+Battery connector,BM02B-ACHSS-GAN-ETF,1,piece,0.50,0.50,https://www.jst-mfg.com/product/index.php?series=ACH,Planning allowance
+DigiKey shipping,N/A,1,order charge,30.00,30.00,https://www.digikey.com.mx/en,Published Mexico rate; checkout pending
+Seeed shipping,N/A,1,order charge,10.00,10.00,https://support.seeedstudio.com/knowledgebase/topics/56172-shipping,Planning allowance
+Akko shipping,N/A,1,order charge,15.00,15.00,https://en.akkogear.com/faq/how-many-days-will-the-delivery-take-if-i-order-today/,Planning allowance
+Mouser shipping,N/A,1,order charge,20.00,20.00,https://www.mouser.mx/es/saleterms/,Planning allowance
+Adafruit shipping,N/A,1,order charge,20.00,20.00,https://www.adafruit.com/shippinginfo,Planning allowance
+Tax and import charges,N/A,1,all orders,40.00,40.00,https://wwwmatnp.sat.gob.mx/articulo/43379/articulo-27,Planning allowance
