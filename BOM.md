@@ -33,10 +33,8 @@
 | 2.2 kOhm resistor | — | 1 | $0.10 | $0.10 | — |
 | [Battery connector](https://www.jst-mfg.com/product/index.php?series=ACH) | — | 1 | $0.50 | $0.50 | [Jst-mfg](https://www.jst-mfg.com/product/index.php?series=ACH) |
 | [DigiKey shipping](https://www.digikey.com.mx/en) | — | 1 | $30.00 | $30.00 | [COM](https://www.digikey.com.mx/en) |
-| [Seeed shipping](https://support.seeedstudio.com/knowledgebase/topics/56172-shipping) | — | 1 | $10.00 | $10.00 | [Seeedstudio](https://support.seeedstudio.com/knowledgebase/topics/56172-shipping) |
-| [Akko shipping](https://en.akkogear.com/faq/how-many-days-will-the-delivery-take-if-i-order-today/) | — | 1 | $15.00 | $15.00 | [Akkogear](https://en.akkogear.com/faq/how-many-days-will-the-delivery-take-if-i-order-today/) |
-| **Parts subtotal** | — | — | — | **$132.17** | — |
+| **Parts subtotal** | — | — | — | **$107.17** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$132.17** | — |
+| **Total** | — | — | — | **$107.17** | — |
 
-**$67.17 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$42.17 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
