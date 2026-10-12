@@ -36,9 +36,8 @@
 | [Seeed shipping](https://support.seeedstudio.com/knowledgebase/topics/56172-shipping) | — | 1 | $10.00 | $10.00 | [Seeedstudio](https://support.seeedstudio.com/knowledgebase/topics/56172-shipping) |
 | [Akko shipping](https://en.akkogear.com/faq/how-many-days-will-the-delivery-take-if-i-order-today/) | — | 1 | $15.00 | $15.00 | [Akkogear](https://en.akkogear.com/faq/how-many-days-will-the-delivery-take-if-i-order-today/) |
 | [Mouser shipping](https://www.mouser.mx/es/saleterms/) | — | 1 | $20.00 | $20.00 | [Mouser](https://www.mouser.mx/es/saleterms/) |
-| [Adafruit shipping](https://www.adafruit.com/shippinginfo) | — | 1 | $20.00 | $20.00 | [Adafruit](https://www.adafruit.com/shippinginfo) |
-| **Parts subtotal** | — | — | — | **$172.17** | — |
+| **Parts subtotal** | — | — | — | **$152.17** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$172.17** | — |
+| **Total** | — | — | — | **$152.17** | — |
 
-**$107.17 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$87.17 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
