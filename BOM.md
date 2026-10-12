@@ -12,7 +12,6 @@
 
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
-| [BLE controller](https://www.seeedstudio.com/Seeed-XIAO-BLE-nRF52840-p-5201.html) | — | 1 | $9.90 | $9.90 | [Seeedstudio](https://www.seeedstudio.com/Seeed-XIAO-BLE-nRF52840-p-5201.html) |
 | [Tactile switches](https://en.akkogear.com/product/creamy-purple-u1-switch/) | — | 2 | $19.98 | $39.96 | [Akkogear](https://en.akkogear.com/product/creamy-purple-u1-switch/) |
 | [Touchpad](https://www.mouser.com/en/ProductDetail/Cirque/TM040040-2024-302?qs=wd5RIQLrsJgMzmw571gvDw%3D%3D) | — | 1 | $9.63 | $9.63 | [Mouser](https://www.mouser.com/en/ProductDetail/Cirque/TM040040-2024-302?qs=wd5RIQLrsJgMzmw571gvDw%3D%3D) |
 | [Matrix diodes](https://www.digikey.com/en/products/detail/diodes-incorporated/1N4148W-7-F/815280) | — | 100 | $6.65 | $665.00 | [DigiKey](https://www.digikey.com/en/products/detail/diodes-incorporated/1N4148W-7-F/815280) |
@@ -32,8 +31,8 @@
 | 330 ohm resistor | — | 1 | $0.00 | $0.00 | — |
 | 2.2 kOhm resistor | — | 1 | $0.00 | $0.00 | — |
 | [Battery connector](https://www.jst-mfg.com/product/index.php?series=ACH) | — | 1 | $0.00 | $0.00 | [Jst-mfg](https://www.jst-mfg.com/product/index.php?series=ACH) |
-| **Parts subtotal** | — | — | — | **$765.59** | — |
+| **Parts subtotal** | — | — | — | **$755.69** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$765.59** | — |
+| **Total** | — | — | — | **$755.69** | — |
 
-**$700.59 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$690.69 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
