@@ -25,14 +25,13 @@
 | [IDC strain reliefs](https://www.digikey.com/en/products/base-product/assmann-wsw-components/123/AWZ/567962) | — | 2 | $0.10 | $0.20 | [DigiKey](https://www.digikey.com/en/products/base-product/assmann-wsw-components/123/AWZ/567962) |
 | [IDC headers](https://www.digikey.com/en/products/detail/assmann-wsw-components/AWHW-14G-0202-T/5224931) | — | 2 | $0.63 | $1.26 | [DigiKey](https://www.digikey.com/en/products/detail/assmann-wsw-components/AWHW-14G-0202-T/5224931) |
 | [Power switch](https://www.digikey.com/en/products/detail/e-switch/EG1218/101726) | — | 1 | $0.72 | $0.72 | [DigiKey](https://www.digikey.com/en/products/detail/e-switch/EG1218/101726) |
-| [USB cable](https://www.adafruit.com/product/4474) | — | 1 | $4.95 | $4.95 | [Adafruit](https://www.adafruit.com/product/4474) |
 | [Battery protection IC](https://www.ti.com/product/BQ2970) | — | 1 | $1.00 | $1.00 | [TI](https://www.ti.com/product/BQ2970) |
 | [Dual MOSFET](https://www.ti.com/product/CSD83325L) | — | 1 | $1.50 | $1.50 | [TI](https://www.ti.com/product/CSD83325L) |
 | 330 ohm resistor | — | 1 | $0.10 | $0.10 | — |
 | 2.2 kOhm resistor | — | 1 | $0.10 | $0.10 | — |
 | [Battery connector](https://www.jst-mfg.com/product/index.php?series=ACH) | — | 1 | $0.50 | $0.50 | [Jst-mfg](https://www.jst-mfg.com/product/index.php?series=ACH) |
-| **Parts subtotal** | — | — | — | **$67.22** | — |
+| **Parts subtotal** | — | — | — | **$62.27** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$67.22** | — |
+| **Total** | — | — | — | **$62.27** | — |
 
-**$2.22 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+$2.73 left of the tier's funding.
