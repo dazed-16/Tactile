@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> Someone that likes keyboards will like this one!
+> Tactile is a custom split mechanical keyboard for programming, live coding and CAD, with a thumb touchpad for pointer control.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
