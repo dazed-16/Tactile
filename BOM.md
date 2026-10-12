@@ -12,21 +12,14 @@
 
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
-| [Touchpad cable](https://www.digikey.com/en/products/detail/assmann-wsw-components/AFFC-050-12-051-11/6570261) | — | 1 | $0.00 | $0.00 | [DigiKey](https://www.digikey.com/en/products/detail/assmann-wsw-components/AFFC-050-12-051-11/6570261) |
-| [Ribbon cable](https://www.digikey.com/en/products/detail/assmann-wsw-components/AWG28-14-F-300/655738) | — | 2 | $3.58 | $7.16 | [DigiKey](https://www.digikey.com/en/products/detail/assmann-wsw-components/AWG28-14-F-300/655738) |
-| [IDC sockets](https://www.digikey.com/en/products/detail/assmann-wsw-components/AWP-14-8240-T/5244612) | — | 2 | $1.20 | $2.40 | [DigiKey](https://www.digikey.com/en/products/detail/assmann-wsw-components/AWP-14-8240-T/5244612) |
-| [IDC strain reliefs](https://www.digikey.com/en/products/base-product/assmann-wsw-components/123/AWZ/567962) | — | 2 | $0.20 | $0.40 | [DigiKey](https://www.digikey.com/en/products/base-product/assmann-wsw-components/123/AWZ/567962) |
-| [IDC headers](https://www.digikey.com/en/products/detail/assmann-wsw-components/AWHW-14G-0202-T/5224931) | — | 2 | $1.26 | $2.52 | [DigiKey](https://www.digikey.com/en/products/detail/assmann-wsw-components/AWHW-14G-0202-T/5224931) |
-| [Power switch](https://www.digikey.com/en/products/detail/e-switch/EG1218/101726) | — | 1 | $0.72 | $0.72 | [DigiKey](https://www.digikey.com/en/products/detail/e-switch/EG1218/101726) |
-| [Battery](https://www.digikey.com/en/products/detail/adafruit-industries-llc/258/5054544) | — | 1 | $9.95 | $9.95 | [DigiKey](https://www.digikey.com/en/products/detail/adafruit-industries-llc/258/5054544) |
 | [USB cable](https://www.adafruit.com/product/4474) | — | 1 | $4.95 | $4.95 | [Adafruit](https://www.adafruit.com/product/4474) |
 | [Battery protection IC](https://www.ti.com/product/BQ2970) | — | 1 | $0.00 | $0.00 | [TI](https://www.ti.com/product/BQ2970) |
 | [Dual MOSFET](https://www.ti.com/product/CSD83325L) | — | 1 | $0.00 | $0.00 | [TI](https://www.ti.com/product/CSD83325L) |
 | 330 ohm resistor | — | 1 | $0.00 | $0.00 | — |
 | 2.2 kOhm resistor | — | 1 | $0.00 | $0.00 | — |
 | [Battery connector](https://www.jst-mfg.com/product/index.php?series=ACH) | — | 1 | $0.00 | $0.00 | [Jst-mfg](https://www.jst-mfg.com/product/index.php?series=ACH) |
-| **Parts subtotal** | — | — | — | **$28.10** | — |
+| **Parts subtotal** | — | — | — | **$4.95** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$28.10** | — |
+| **Total** | — | — | — | **$4.95** | — |
 
-$36.90 left of the tier's funding.
+$60.05 left of the tier's funding.
