@@ -32,9 +32,8 @@
 | 330 ohm resistor | — | 1 | $0.10 | $0.10 | — |
 | 2.2 kOhm resistor | — | 1 | $0.10 | $0.10 | — |
 | [Battery connector](https://www.jst-mfg.com/product/index.php?series=ACH) | — | 1 | $0.50 | $0.50 | [Jst-mfg](https://www.jst-mfg.com/product/index.php?series=ACH) |
-| [DigiKey shipping](https://www.digikey.com.mx/en) | — | 1 | $30.00 | $30.00 | [COM](https://www.digikey.com.mx/en) |
-| **Parts subtotal** | — | — | — | **$107.17** | — |
+| **Parts subtotal** | — | — | — | **$77.17** | — |
 | **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$107.17** | — |
+| **Total** | — | — | — | **$77.17** | — |
 
-**$42.17 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
+**$12.17 over the tier's funding.** Every tier gives a fixed amount for parts, so this needs cutting back or a higher tier.
